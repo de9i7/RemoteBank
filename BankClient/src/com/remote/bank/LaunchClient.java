@@ -38,7 +38,8 @@ public class LaunchClient {
 
             } else {
                 LOG.info("Gui mode has been set.");
-		// Some changes
+		        // Some changes
+                // Check ignore list
             }
 
         } else {
