@@ -1,5 +1,7 @@
 *.class
 .idea/
+BankClient.iml
+BankServer.iml
 *.iml
 out/
 log/
