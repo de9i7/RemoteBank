@@ -20,6 +20,8 @@ public class LaunchClient {
 
     private static final String OPTION_FILE_INPUT = "src";
 
+    private String DIANA;
+
     /** Comman line arguments */
     private static Option optionMode;
     private static Option optionSource;
